@@ -16,7 +16,6 @@ export const Title = styled.Text`
   margin: 64px 0 24px;
 `;
 
-
 export const BackToSignIn = styled.TouchableOpacity`
   position: absolute;
   left: 0;
